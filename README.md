@@ -8,14 +8,14 @@
 
 <h1>My project - School diary web app</h1>
 
-<p align="left"> <br/>
-I did a frontend part using React, TypeScript, Next.js
-..... What that application do very shortly .................. 
+<p align="left"> 
+I did a frontend part using React, TypeScript, Next.js. <br/>
+..... What that application do very shortly .................. </p> <br/>
 Thanks for your cooperation: <br/>
 🧑‍💻Best Designer [person1](https://www.linkedin.com/in/person1/) - Figma<br/>
 🧑‍💻Excellent BackEnd Developer [person2](https://www.linkedin.com/in/person2/) - MongoDB, Express.js, Node.js <br/>
 🎉🎉🎉
-</p2>
+</p>
 
 <a href="https://www.google.pl" rel="noopener">Live!</a> <br/>
 <a href="https://www.google.pl" rel="noopener">Repository with code</a> <br/>
