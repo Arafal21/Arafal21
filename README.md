@@ -6,11 +6,11 @@
 
 <hr/>
 
-<h1>School diary web application</h1>
+<h1>My project - School diary web app</h1>
 
 <p align="left"> <br/>
-I did a frontend using React, TypeScript, Next.js
-
+I did a frontend part using React, TypeScript, Next.js
+..... What that application do very shortly .................. 
 Thanks for your cooperation: <br/>
 🧑‍💻Best Designer [person1](https://www.linkedin.com/in/person1/) - Figma<br/>
 🧑‍💻Excellent BackEnd Developer [person2](https://www.linkedin.com/in/person2/) - MongoDB, Express.js, Node.js <br/>
