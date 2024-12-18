@@ -9,6 +9,7 @@
 <h1>My project - School diary web app</h1>
 
 <p align="left"> 
+	
 I did a frontend part using React, TypeScript, Next.js. <br/>
 ..... What that application do very shortly .................. </p> <br/>
 Thanks for your cooperation: <br/>
