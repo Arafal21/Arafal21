@@ -29,20 +29,18 @@ Thanks for your cooperation: <br/>
 
 <details><summary><b>📧 More about me:</b></summary>
 <br/>
-<div>
-	<img align="left" width="250" src="https://repository-images.githubusercontent.com/507089682/889a6863-d25c-4a54-b2c5-8efad7260eeb" /></div>
-	<div align="right">
-	<br />
-	<br />
-	<p align="left">📝 I'm open to work in office or remotely in New York USA or Warsaw PL </p>
-</div>
-	<br/>
-	<br/>
-	<br/>
-	<br/>
+	<div>
+		<img align="left" width="250" src="https://repository-images.githubusercontent.com/507089682/889a6863-d25c-4a54-b2c5-8efad7260eeb" /></div>
+		<div align="right">
+		<br />
+		<br />
+		<p align="left">📝 I'm open to work in office or remotely in New York USA or Warsaw PL </p>
+	</div>
+<br/>
+<br/>
+<br/>
+<br/>
 </details>
-
-
 
 ###
 
@@ -53,12 +51,11 @@ Thanks for your cooperation: <br/>
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=white)
 ![SCSS](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)
-
- <br />
+<br />
 </details>
 
 ###
- 
+
 <details><summary><b>🛠️ I am familiar with the use of</b></summary>
 <br />
  
@@ -97,7 +94,7 @@ Thanks for your cooperation: <br/>
 
 ###
 
-<details><summary><b>Bus routes - a project I am working on </b></summary>
+<details><summary><b>🎯 Bus routes - a project I am working on </b></summary>
 <br/>
 <div>
 	<a href="https://www.google.pl/">
