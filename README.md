@@ -34,7 +34,7 @@ Thanks for your cooperation: <br/>
 		<div align="right">
 		<br />
 		<br />
-		<p align="left">📝 I'm open to work in office or remotely in New York USA or Warsaw PL </p>
+		<p align="left">📝 I'm open to work in office or remotely in New York USA and Warsaw PL </p>
 	</div>
 <br/>
 <br/>
