@@ -11,7 +11,7 @@
 <p align="left"> 
 	
 I did a frontend part using React, TypeScript, Next.js. <br/>
-..... What that application do very shortly .................. </p> <br/>
+This is a ready-made application after onboarding that allows you to manage grades, attendance, events and what's going on with school life! </p> <br/>
 Thanks for your cooperation: <br/>
 🧑‍💻Best Designer [person1](https://www.linkedin.com/in/person1/) - Figma<br/>
 🧑‍💻Excellent BackEnd Developer [person2](https://www.linkedin.com/in/person2/) - MongoDB, Express.js, Node.js <br/>
@@ -61,9 +61,7 @@ Thanks for your cooperation: <br/>
  
 <details><summary><b>🛠️ I am familiar with the use of</b></summary>
 <br />
-Figma, git...
-img.shields.io
-
+ 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -72,21 +70,15 @@ img.shields.io
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Clsx](https://img.shields.io/badge/clsx-blue?style=for-the-badge&logo=clsx&logoColor=white)
-![Class-Variance-Authority](https://img.shields.io/badge/cva-purple?style=for-the-badge&logo=cva&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-![CodeSandbox](https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-
-
- 
 <br />
 <br />
 </details>
