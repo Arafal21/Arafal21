@@ -19,6 +19,7 @@ Thanks for your cooperation: <br/>
 </p>
 
 <a href="https://www.google.pl" rel="noopener">Live!</a> <br/>
+<a href="https://www.google.pl" rel="noopener">Live on a mobile! -   [https://bit.ly/](https://bit.ly/) -  Just type this short link into your phone's browser</a> <br/>
 <a href="https://www.google.pl" rel="noopener">Repository with code</a> <br/>
 
 [![MasterHead](https://cdn.discordapp.com/attachments/1318998107136069658/1318998189659131905/school-journal.png?ex=67645c4a&is=67630aca&hm=114d23bf9c25c698c8712a0dc9f9fe018f68aa41e531aa1e5179e2f9eecd0c8b&)]()
