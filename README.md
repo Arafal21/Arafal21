@@ -95,7 +95,7 @@ Thanks for your cooperation: <br/>
 
 ###
 
-<details><summary><b>🎯 Bus routes - a project I am working on </b></summary>
+<details><summary><b>🎯 Bus routes - in plans </b></summary>
 <br/>
 <div>
 	<a href="https://www.google.pl/">
