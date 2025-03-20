@@ -98,7 +98,7 @@ I'm open to work! Follow my profile to get to know about it.
 <details><summary><b>🎯 Another project after finishing XJournal - Bus routes </b></summary>
 <br/>
 <div>
-	<p>💻 https://github.com/Arafal21/repositories/bus-routes-app <br> 📐 React + Next.js + Tailwind + React Native + node.js</p>
+	<p>💻 https://github.com/Arafal21/repositories/bus-routes-app <br> 📐 React + Next.js + Tailwind + React Native + Java</p>
 	<br>
 	<div align="left">
 		<img src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white' />
