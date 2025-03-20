@@ -58,27 +58,6 @@ I'm open to work! Follow my profile to get to know about it.
 
 ###
 
-<details><summary><b>📧 Connect with me:</b></summary>
-	<br />
-    <ul>
-        <li><strong>E-mail: </strong> <code>rafaland21@protonmail.com</code></li>
-        <li><strong>Linkedin<a href="https://linkedin.com/in/rafaland"> <code>https://linkedin.com/in/rafaland</code> </a> </strong> </li>
-        <li><strong>Messenger (fb) <a href="https://facebook.com/rafalandrz"> <code>https://facebook.com/rafalandr</code></a></strong> </li>
-    </ul>
-			<div>
-		<img align="left" width="250" src="https://repository-images.githubusercontent.com/507089682/889a6863-d25c-4a54-b2c5-8efad7260eeb" /></div>
-		<div align="right">
-		<br />
-		<br />
-		<p align="left">📝 I'm open to work in office/remotely in New York USA or Warsaw PL </p>
-	</div>
-	
-<br />
-<br />
-<br />
-<br />
-</details>
-<br/>
 <details><summary><b>💻 My Frontend Stack</b></summary>
 <br/>
 	
