@@ -21,7 +21,7 @@ I'm open to work! Follow my profile to get to know about it.
 </p>
 
 
-<a href="https://www.google.pl" rel="noopener">Live on a mobile! - [bit.ly/asd123](https://bit.ly/asd123) -  Just type this short link => bit.ly/asd123 <= into your phone's browser</a> <br/>
+<a href="https://www.google.pl" rel="noopener">Live </a> also easily on a mobile! - [bit.ly/asd123](https://bit.ly/asd123) -  Just type this short link => bit.ly/asd123 <= into your phone's browser <br/>
 <a href="https://www.google.pl" rel="noopener">Repository with code</a> <br/>
 
 <img src="https://i.imgur.com/zd5XlIB.png"/>
