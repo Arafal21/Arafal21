@@ -96,12 +96,6 @@ I'm open to work! Follow my profile to get to know about it.
 <br/>
 <div>
 	<p>💻 https://github.com/Arafal21/bus-routes-app <br> 📐 React + Next.js + Tailwind + React Native</p>
-	<br>
-	<div align="left">
-		<img src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white' />
-		<img src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB' />
-		<img src='https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white' />
-	</div>
 </div>
 <br />
 <br />
