@@ -13,8 +13,9 @@ I did a frontend part using React, TypeScript, Next.js. <br/>
 This is a ready-made application that allows you to manage grades, attendance, events and what's going on with school life! </p> <br/>
 Thanks for your cooperation: <br/>
 
-🧑‍💻Best Designer [Bartosz Mielcarek](https://github.com/l4npl): Node.js + TypeScript + Express.js + MongoDB + Redis  <br/>
-🧑‍💻Excellent BackEnd Developer [Tomasz Łuczak](https://uxfol.io/de179750): Figma  <br/>
+🧑‍💻Excellent Designer [Tomasz Łuczak](https://uxfol.io/de179750): Figma  <br/>
+🧑‍💻Best Backend Developer [Bartosz Mielcarek](https://github.com/l4npl): Node.js + TypeScript + Express.js + MongoDB + Redis  <br/>
+
 🎉🎉🎉
 
 I'm open to work! Follow my profile to get to know about it.
