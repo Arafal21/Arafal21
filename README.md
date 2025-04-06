@@ -61,7 +61,7 @@ I'm open to work! Follow my profile to get to know about it.
 <br/>
 
 #### My Frontend Stack:
-![My Skills](https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,tailwind,sass,html,css,vscode,git,figma)
+![My Skills](https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,sass,html,css,git)
 
 
 #### Other tools that I know:
@@ -73,10 +73,19 @@ I'm open to work! Follow my profile to get to know about it.
 
 ###
 
-<details><summary><b>🛠️ Currently learning:</b></summary>
+<details><summary><b>🛠️ I am currently learning and expanding my knowledge of:</b></summary>
 <br />
  
-![My Skills](https://skillicons.dev/icons?i=next,react,typescript,javascript,tailwind,python,java,node)
+
+#### I'm expanding my knowledge of:
+![My Skills](https://skillicons.dev/icons?i=next,react,typescript,javascript,tailwind)
+
+
+#### I'm, currently learning:
+![My Skills](python,node,mongo,node,)
+
+
+
 
 <br />
 <br />
