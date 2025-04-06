@@ -61,11 +61,11 @@ I'm open to work! Follow my profile to get to know about it.
 <br/>
 
 #### My Frontend Stack:
-![My Skills](https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,sass,html,css,git)
+![My Skills](https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,sass,html,css)
 
 
 #### Other tools that I know:
-![My Skills](https://skillicons.dev/icons?i=tailwind,vite,gulp,vercel,vscode,git,figma,jest,postman,)
+![My Skills](https://skillicons.dev/icons?i=tailwind,vite,gulp,vercel,vscode,git,figma,jest,postman)
 
 
 <br />
