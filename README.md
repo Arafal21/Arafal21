@@ -82,7 +82,7 @@ I'm open to work! Follow my profile to get to know about it.
 
 
 #### I'm, currently learning:
-![My Skills](python,node,mongo,node,)
+![My Skills](python,node,mongo,node)
 
 
 
