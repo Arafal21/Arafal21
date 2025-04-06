@@ -6,7 +6,7 @@
 
 <hr/>
 
-<h1>My project - electronic school journal</h1>
+<h1>My project:  e-school journal</h1>
 
 <p align="left"> 
 I did a frontend part using React, TypeScript, Next.js. <br/>
@@ -57,37 +57,26 @@ I'm open to work! Follow my profile to get to know about it.
 
 ###
 
-<details><summary><b>💻 My Frontend Stack</b></summary>
+<details><summary><b>💻 My Frontend Stack, and tools that I know</b></summary>
 <br/>
-	
-![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=white)
-![SCSS](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)
+
+#### My Frontend Stack:
+![My Skills](https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,tailwind,sass,html,css,vscode,git,figma)
+
+
+#### Other tools that I know:
+![My Skills](https://skillicons.dev/icons?i=tailwind,vite,gulp,vercel,vscode,git,figma,jest,postman,)
+
+
 <br />
 </details>
 
 ###
 
-<details><summary><b>🛠️ I am familiar with the use of</b></summary>
+<details><summary><b>🛠️ Currently learning:</b></summary>
 <br />
  
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![My Skills](https://skillicons.dev/icons?i=next,react,typescript,javascript,tailwind,python,java,node)
 
 <br />
 <br />
