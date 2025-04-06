@@ -73,7 +73,7 @@ I'm open to work! Follow my profile to get to know about it.
 
 ###
 
-<details><summary><b>🛠️ I am currently learning and expanding my knowledge of:</b></summary>
+<details><summary><b>🛠️ I am about to learn and expanding my knowledge of:</b></summary>
 <br />
  
 
@@ -81,8 +81,8 @@ I'm open to work! Follow my profile to get to know about it.
 ![My Skills](https://skillicons.dev/icons?i=next,react,typescript,javascript,tailwind)
 
 
-#### I'm, currently learning:
-![My Skills](https://skillicons.dev//icons?i=python,node,mongo,node)
+#### I'm about to learn:
+![My Skills](https://skillicons.dev//icons?i=python,nodejs,mongo)
 
 
 
