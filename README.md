@@ -95,6 +95,7 @@ I'm open to work! Follow my profile to get to know about it.
 ###
 <details><summary><b>🎯 Another project after finishing XJournal - Bus routes </b></summary>
 <br/>
+<p>tech: React + Next.js + TypeScript + shadcn + React Native, backend to think about</p>
  <a href"https://github.com/Arafal21/bus-routes-app">💻 https://github.com/Arafal21/bus-routes-app</a>
 <br/>
 <br />
