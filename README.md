@@ -3,9 +3,7 @@
 <h1 align="center">Hi 👋, I'm Rafal</h1>
 <h3 align="center">A passionate React Developer</h3>
 <h4 align="center">I'm glad to welcome you to my profile! 🙌</h4>
-
 <hr/>
-
 <h1>My project:  e-school journal</h1>
 
 <p align="left"> 
