@@ -8,7 +8,7 @@
 
 <p align="left"> 
 I did a frontend part using React, TypeScript, Next.js. <br/>
-This is a ready-made application that allows you to manage grades, attendance, events and what's going on with school life! </p> <br/>
+This is a ready-made application that allows you to manage grades, attendance, events and what's going on with school life! </p>
 Thanks for your cooperation: <br/>
 
 🧑‍💻Excellent Designer [Tomasz Łuczak](https://uxfol.io/de179750): Figma  <br/>
