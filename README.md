@@ -21,7 +21,6 @@ Thanks for your cooperation: <br/>
 I'm open to work! Follow my profile to get to know about it.
 </p>
 
-
 <a href="https://www.google.pl" rel="noopener">Live - [bit.ly/asd123](https://bit.ly/asd123) </a> also easily on a mobile! -  Just type this short link into your phone's browser <br/>
 <a href="https://www.google.pl" rel="noopener">Repository with code</a> <br/>
 
