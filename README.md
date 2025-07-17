@@ -13,14 +13,15 @@ I did a frontend part using React, TypeScript, Next.js. <br/>
 I'm open to work! Follow my profile to get to know about it.
 🎉🎉🎉
 
-<a href="https://www.xjournal.site/" rel="noopener">[xjournal.site](https://xjournal.site) </a> - live also easily on a mobile! Just type this short link into your phone's browser <br/>
-<a href="https://www.google.pl" rel="noopener">Repository</a> <br/>
+<a href="https://www.xjournal.site/" rel="noopener">Live - xjournal.site </a> - live also easily on a mobile! Just type this short link into your phone's browser <br/>
+<a href="https://github.com/Arafal21/XJournal" rel="noopener">Repository - https://github.com/Arafal21/XJournal</a> <br/>
+<a href="https://www.figma.com/design/ixSiVXF9JTwrgxHL12Gz8S/School-Journal---High-Fidelity-Desktop-Mobile?node-id=50-41&p=f" rel="noopener">Figma project link - https://bit.ly/4lAUf9L </a> <br/>
 	
 This is a ready-made application that allows you to manage grades, attendance, events and what's going on with school life! </p>
 Thanks for your cooperation: <br/>
 
-🧑‍💻Excellent Designer [BLANK](https://uxfol.io/de179750): Figma  <br/>
-🧑‍💻Best Backend Developer [BLANK](https://github.com/l4npl): Node.js + TypeScript + Express.js + MongoDB + Redis  <br/>
+🧑‍💻Excellent Designer [Tomasz Łuczak](https://uxfol.io/de179750): Figma  <br/>
+🧑‍💻Best Backend Developer [Bartosz Mielcarek](https://github.com/l4npl): Node.js + TypeScript + Express.js + MongoDB + Redis  <br/>
 
 
 </p>
@@ -37,9 +38,9 @@ Thanks for your cooperation: <br/>
 <details><summary><b>📧 Connect with me:</b></summary>
 	<br />
     <ul>
-        <li><strong>E-mail: </strong> <code>BLANK@protonmail.com</code></li>
-        <li><strong>Linkedin<a href="https://linkedin.com/in/BLANK"> <code>https://linkedin.com/in/BLANK</code> </a> </strong> </li>
-        <li><strong>Messenger (fb) <a href="https://facebook.com/BLANK"> <code>https://facebook.com/BLANK</code></a></strong> </li>
+        <li><strong>E-mail: </strong> <code>rafaland21@protonmail.com</code></li>
+        <li><strong>Linkedin<a href="https://linkedin.com/in/rafaland"> <code>https://linkedin.com/in/rafaland</code> </a> </strong> </li>
+        <li><strong>Messenger (fb) <a href="https://facebook.com/rafalandrz"> <code>https://facebook.com/rafalandr</code></a></strong> </li>
     </ul>
 			<div>
 		<img align="left" width="250" src="https://repository-images.githubusercontent.com/507089682/889a6863-d25c-4a54-b2c5-8efad7260eeb" /></div>
