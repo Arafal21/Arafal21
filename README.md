@@ -23,11 +23,10 @@ Thanks for your cooperation: <br/>
 🧑‍💻Excellent Designer [Tomasz Łuczak](https://uxfol.io/de179750): Figma  <br/>
 🧑‍💻Best Backend Developer [Bartosz Mielcarek](https://github.com/l4npl): Node.js + TypeScript + Express.js + MongoDB + Redis  <br/>
 
-
 </p>
 
+![IMG_3690 2](https://github.com/user-attachments/assets/9f097899-590e-4ba1-a832-fe2aa06097a3)
 
---gif--
 
 <br />
 
