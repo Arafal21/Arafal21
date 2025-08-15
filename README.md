@@ -10,7 +10,7 @@
 I did a frontend part using React, TypeScript, Next.js. <br/>
 	
 🎉🎉🎉
-I'm open to work! Follow my profile to get to know about it.
+If you want to know more about me - scroll down ;)
 🎉🎉🎉
 
 <a href="https://www.xjournal.site/" rel="noopener">Live - xjournal.site </a> - live also easily on a mobile! Just type this short link into your phone's browser <br/>
@@ -46,7 +46,7 @@ Thanks for your cooperation: <br/>
 		<div align="right">
 		<br />
 		<br />
-		<p align="left">📝 I'm open to work in office/remotely in New York USA or Warsaw PL </p>
+		<p align="left">📝 Currently living in Warsaw PL </p>
 	</div>
 	
 <br />
